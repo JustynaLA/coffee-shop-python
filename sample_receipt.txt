@@ -1,0 +1,17 @@
+--- Your Coffee Shop Receipt ---
+Customer: Alex Smith
+Date: 2026-11-17
+
+Item                    Qty   Price    Total    Customisations
+--------------------------------------------------------------
+Coffee                  2     £2.50    £5.60    Oat Milk
+White Chocolate Cookie  8     £2.40    £19.20   None
+--------------------------------------------------------------
+Subtotal:        £   24.80
+Service Charge:  £    2.48
+Discount:       -£    3.72
+VAT (20%):       £    4.71
+Total Due:       £   28.27
+--------------------------------------------------------------
+*** Lucky Draw! You won a free coffee! ***
+Thank you for your order!
